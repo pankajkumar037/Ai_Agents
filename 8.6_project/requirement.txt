@@ -1,0 +1,8 @@
+autogen-agentchat
+groq
+duckduckgo-search
+streamlit
+python-dotenv
+google-generativeai
+pyautogen
+ag2[gemini]

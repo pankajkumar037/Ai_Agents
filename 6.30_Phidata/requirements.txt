@@ -1,0 +1,13 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+groq
+langchain-groq
+openai
+
+#for playground
+python-multipart
+fastapi
+uvicorn
